@@ -1,0 +1,5 @@
+Sa se scrie un program care citeste un fisier care contine un text. 
+Sa se separe textul in cuvinte, folosind ca separatori caracterele spatiu, virgula si punct. 
+Sa se calculeze numarul de aparitii in text pentru fiecare cuvant. 
+Sa se creeze un dictionar care va contine drept chei toate cuvintele din text, iar valorile vor fi reprezentate prin numarul de aparitii ale fiecarui cuvant.
+Sa se afiseze dictionarul.

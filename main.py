@@ -14,7 +14,7 @@ print()
 aparitii = {cuvant: cuvinte.count(cuvant) for cuvant in cuvinte}
 
 print(aparitii)
-print(len(string_citit), len(aparitii.items()))
+#print(len(string_citit), len(aparitii.items()))
 print()
 
 frecventa_aparitie = {key: value for (key, value) in aparitii.items() if value/len(string_citit) <= 0.01}
@@ -28,7 +28,7 @@ for (key, value) in aparitii.items():
     frecventa_aparitie[key] = value
 '''
 print(frecventa_aparitie)
-print(len(frecventa_aparitie))
+#print(len(frecventa_aparitie))
 print()
 
 with open('data.json', 'w') as f:

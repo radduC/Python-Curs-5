@@ -54,7 +54,8 @@ print(data)
 print()
 
 #sorted_data = sorted(data.items(), key = lambda kv:(kv[1], kv[0]))
-sorted_data = {k: v for k, v in sorted(data.items(), key = lambda item: item[1]) if v < 10}
+#sortam top 6, pentru ca top 10 le cuprinde cam pe toate...
+sorted_data = {k: v for k, v in sorted(data.items(), key = lambda item: item[1]) if v < 6}
 
 print('sorted_data = \n')
 print(sorted_data)

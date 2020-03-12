@@ -1,5 +1,15 @@
-Sa se scrie un program care citeste un fisier care contine un text. 
-Sa se separe textul in cuvinte, folosind ca separatori caracterele spatiu, virgula si punct. 
-Sa se calculeze numarul de aparitii in text pentru fiecare cuvant. 
-Sa se creeze un dictionar care va contine drept chei toate cuvintele din text, iar valorile vor fi reprezentate prin numarul de aparitii ale fiecarui cuvant.
-Sa se afiseze dictionarul.
+When we talk about High Elves and Blood Elves, we are really talking about three distinct groups:
+
+1. WCII elves
+2. WCIII Blood Elves
+3. MMO Blood Elves
+
+Group 1: the elves of WCII are the High Elves of today. These include the farstriders who left and the magi of Dalaran. Group 3: the blood elves of today's mmo WoW did not get involved in the first, second, and third wars (with some rare exceptions) because they didn't want to be involved.
+
+Group 2: the blood elves of WCIII became the villainous blood elves of Outland and the Isle of Quel'Danas that remained loyal to Kael'Thas. They drew from both other groups, so some were from Dalaran and some were from Silvermoon. Group 3: the blood elves of today's mmo didn't go quite as full-on Kael'Thas. Group 3 also stayed home.
+
+Group 3: the MMO WoW blood elves are the ones who joined the Horde. We don't really have examples of them prior to WoW itself, because the ones we did see in WCIII all died. Void Elves also fall under Group 3.
+
+The history of these three groups throughout the franchise is very distinct with very little overlap. Group 1: the High Elves honored their old alliance to the humans and went off to fight their wars. They lived in Dalaran and mingled with human kingdoms. That's in sharp contrast to the (Group 3) Blood Elves that were isolationist and thought the whole humie-loving thing was madness. Group 2: the WCIII blood elves that followed Kael were kinda in the middle of these two groups. They had no problem romping around everywhere, but they also had no problem with Kael's crazy, which they fell into.
+
+Players asking for playable High Elves as an Allied Race are looking to play members of Group 1. This is something we cannot do with Group 3, the Blood Elves of WoW or the Void Elves. They are different, and they have done different things, had different loyalties, and had different affiliations throughout the franchise.
